@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T20:31:17 IST" name="Default suite" finished-at="2024-06-06T20:31:27 IST" duration-ms="9382">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T20:31:17 IST" name="Default test" finished-at="2024-06-06T20:31:27 IST" duration-ms="9382">
+      <class name="Test.Login_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:13 IST" name="setup" finished-at="2024-06-06T20:31:17 IST" duration-ms="4614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login_TestCase_Without_Enteringdata()[pri:1, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:17 IST" name="Login_TestCase_Without_Enteringdata" finished-at="2024-06-06T20:31:17 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TestCase_Without_Enteringdata -->
+        <test-method signature="Login_TestCase_inavlid_username_invalid_password()[pri:2, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:17 IST" name="Login_TestCase_inavlid_username_invalid_password" finished-at="2024-06-06T20:31:19 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TestCase_inavlid_username_invalid_password -->
+        <test-method signature="Login_TestCase_valid_username_invalid_password()[pri:3, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:19 IST" name="Login_TestCase_valid_username_invalid_password" finished-at="2024-06-06T20:31:21 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TestCase_valid_username_invalid_password -->
+        <test-method signature="Login_TestCase_invalid_username_valid_password()[pri:4, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:21 IST" name="Login_TestCase_invalid_username_valid_password" finished-at="2024-06-06T20:31:22 IST" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TestCase_invalid_username_valid_password -->
+        <test-method signature="Login_TestCase_valid_username_valid_password()[pri:5, instance:Test.Login_Test@48bb62]" started-at="2024-06-06T20:31:22 IST" name="Login_TestCase_valid_username_valid_password" finished-at="2024-06-06T20:31:27 IST" duration-ms="4693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_TestCase_valid_username_valid_password -->
+      </class> <!-- Test.Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
